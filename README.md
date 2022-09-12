@@ -30,7 +30,7 @@ Biblioteca usada para a comunicação do sensor;
 
 Biblioteca MPU6050 usada para a comunicação do arduíno com o dispositivo;
 
-# <a name="2"></a> laser_scan_matcher e scan_tools:
+# <a name="2"></a> Códigos:
 
 Códigos adaptados usados para o desenvolvimento da pesquisa
 
